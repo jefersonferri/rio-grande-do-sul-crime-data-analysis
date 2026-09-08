@@ -31,6 +31,8 @@ SQL and Power BI.
 
 Excel → Python ETL → PostgreSQL → SQL → Power BI
 
+ETL Challenge: The original source files contained different spreadsheet layouts and header positions across years. A Python/Pandas pipeline was developed to automatically identify the header based on the "Municípios" field, normalize the monthly datasets and consolidate the historical data.
+
 ## Key Skills Demonstrated
 
 - Data cleaning
