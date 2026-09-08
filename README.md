@@ -1,2 +1,55 @@
-# rio-grande-do-sul-crime-data-analysis
-This project analyzes crime statistics across municipalities in Rio Grande do Sul, Brazil, from 2016 to 2025.  The objective is to identify temporal, geographic and behavioral patterns in crime statistics using Python, SQL and Power BI.
+# Rio Grande do Sul Public Safety Data Analysis
+
+## Overview
+
+This project analyzes crime statistics across municipalities
+in Rio Grande do Sul, Brazil, from 2016 to 2025.
+
+The objective is to identify temporal, geographic and
+behavioral patterns in crime statistics using Python,
+SQL and Power BI.
+
+## Business Questions
+
+- How has crime evolved over time?
+- Which municipalities account for the highest volume?
+- Which crime categories show the strongest trends?
+- Are there seasonal patterns?
+- How does each municipality compare with the state average?
+
+## Tools
+
+- Python
+- Pandas
+- PostgreSQL
+- SQL
+- Power BI
+- DAX
+- Git/GitHub
+
+## Data Pipeline
+
+Excel → Python ETL → PostgreSQL → SQL → Power BI
+
+## Key Skills Demonstrated
+
+- Data cleaning
+- ETL
+- Data validation
+- SQL
+- Data modeling
+- DAX
+- KPI development
+- Time-series analysis
+- Geographic analysis
+- Data visualization
+
+## Dashboard
+
+[imagens do Power BI]
+
+## Key Findings
+
+[3–5 principais insights]
+
+## Project Structure
